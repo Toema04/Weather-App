@@ -3,6 +3,8 @@
 A simple and modern Weather Application that allows users to search for current weather conditions in any city worldwide.
 This project uses the OpenWeatherMap API to fetch real-time weather data and displays it in a clean and user-friendly UI.
 
+Visit the App: [here]( https://weather-app-omega-self-37.vercel.app/)
+
 🚀 Features
 
 🌍 Search Weather by City Name
